@@ -29,7 +29,7 @@ USBasp also need to have 2 jumpers :
 
 # DOWNLOAD USBASP FIRMWARE
 * Get it from [fischl.de](https://www.fischl.de/usbasp/) & extract to where you can use it.
-* I will also include it [here]() for convenient usage.
+* I will also include it [here](https://github.com/thetrung/upgrade_USBasp_with_ArduinoISP/tree/main/firmwares) for convenient usage.
 
 # UPLOAD COMMAND
 * Locate your `avrdude.conf` but for `Ubuntu/Linux`, it's usually at `/etc/avrdude.conf`.
