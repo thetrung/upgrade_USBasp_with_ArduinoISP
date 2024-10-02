@@ -1,6 +1,10 @@
 # UPGRADE USBASP WITH ARDUINO UNO (AS ISP).
 Upgrade the old USBasp with Arduino Uno R3 in 2024 on Ubuntu 24.04.1.
 
+# MY CHINA CLONE USBASP WITH ATMEGA8A
+
+![alt](https://github.com/thetrung/upgrade_USBasp_with_ArduinoISP/blob/main/USBASP.jpg)
+
 # WIRING & JUMPER CONFIG
 ```
 ___________________
